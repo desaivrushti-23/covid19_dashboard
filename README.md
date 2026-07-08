@@ -1,22 +1,22 @@
 # covid19_dashboard
-🦠 COVID-19 Global Data Analysis Dashboard
+1. COVID-19 Global Data Analysis Dashboard
 
 An interactive Power BI Dashboard for analyzing global COVID-19 data, providing insights into confirmed, recovered, and deceased cases through dynamic visualizations and KPI metrics.
 
-📌 Project Overview
+2. Project Overview
 
 This project presents a comprehensive analysis of COVID-19 data using Microsoft Power BI. The dashboard transforms raw pandemic data into meaningful visual insights, enabling users to monitor case trends, recovery rates, death statistics, and year-wise distribution through interactive charts and KPI cards.
 
 The project demonstrates data cleaning, transformation, modeling, DAX calculations, and dashboard design skills required for Data Analyst and Business Intelligence roles.
 
-🎯 Objectives
+3. Objectives
 Analyze global COVID-19 case trends.
 Compare confirmed, recovered, and death cases.
 Monitor daily and cumulative statistics.
 Track performance against predefined goals.
 Build an interactive dashboard for data exploration.
 
-📊 Dashboard Features
+4.  Dashboard Features
 📈 Daily Confirmed Cases Trend
 📊 Total Recovered Analysis
 📉 Total Confirmed Growth
@@ -28,7 +28,7 @@ Build an interactive dashboard for data exploration.
 🌙 Modern Dark-Themed Dashboard
 
 
-📌 Key Insights
+5. Key Insights
 Metric	Value
 Total Confirmed Cases	34,285,399
 Total Recovered Cases	21,589,906
@@ -40,7 +40,7 @@ Death Goal Achievement	-0.46%
 2021 Distribution	70%
 
 
-🛠 Tech Stack
+6. Tech Stack
 Microsoft Power BI
 Power Query
 DAX (Data Analysis Expressions)
@@ -49,7 +49,7 @@ Data Modeling
 Data Visualization
 
 
-📂 Dataset
+7.  Dataset
 
 The dataset contains COVID-19 statistics, including:
 
@@ -60,12 +60,12 @@ Daily Confirmed Cases
 Total Recovered Cases
 Daily Recovered Cases
 Total Death Cases
-📈 Dashboard Preview
 
-screenshot:- 
+8.  Dashboard Preview
+screenshot:- https://github.com/desaivrushti-23/covid19_dashboard/blob/main/Screenshot%202026-07-08%20192340.png
 
 
-🚀 Skills Demonstrated
+9.  Skills Demonstrated
 Data Cleaning
 Data Transformation
 Data Modeling
@@ -79,7 +79,7 @@ Business Intelligence
 
 
 
-📁 Repository Structure
+10. Repository Structure
 COVID-19-PowerBI-Dashboard/
 │
 ├── Dataset/
@@ -96,7 +96,7 @@ COVID-19-PowerBI-Dashboard/
 └── LICENSE
 
 
-⭐ Dashboard Highlights
+11.  Dashboard Highlights
 Interactive Power BI Dashboard
 Goal vs Actual KPI Analysis
 Daily COVID-19 Trend Monitoring
